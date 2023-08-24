@@ -1,0 +1,8 @@
+1. Sistem apa yang anda kembangkan pada mata kuliah ini?
+Jawab: Perancangan Proyek Sistem Manajemen Konten
+
+2. Apa tujuan anda mengembangkan sistem tersebut?
+Jawab: Agar bloger dapat membagikan pengalamannya, dapat mengedit, memberikan gambar dan me-manage blog yang dia buat
+
+3. Apa harapan yang ingin anda dapatkan dari user ketika menggunakan sistem yang anda kembangkan?
+Jawab: User dapat memanage blog nya dengan mudah.
